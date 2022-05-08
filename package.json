@@ -1,0 +1,17 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "lint": "eslint ./"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-plugin-jest": "^26.1.5",
+    "jest": "^28.1.0"
+  }
+}
