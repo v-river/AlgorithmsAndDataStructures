@@ -10,8 +10,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.15.0",
-    "eslint-plugin-jest": "^26.1.5",
+    "eslint": "^8.17.0",
+    "eslint-plugin-jest": "^26.4.6",
     "jest": "^28.1.0"
   }
 }
